@@ -1,6 +1,5 @@
-# sp23 Final Project 
-## By Nicolas Munoz & Brett Anley 
-### Group : Duck Dodgers 
+# FPGA Hospital Emergency Alarm Control System 
+## By Brett Anley & Nicolas Munoz 
 
 ### Hospital Emergency Codes 
 The Hospital Association of Southern California (HASC) Safety and Security Committee and AllHealth Security Services define Health Care Emergency Codes used in Project 
