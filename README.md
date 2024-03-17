@@ -22,7 +22,8 @@ The Hospital Association of Southern California (HASC) Safety and Security Commi
 
 
 ### FSM Design 
-![FSM](https://github.com/Spring-2023-Classes/sp23-final-project-nico-brett/assets/123620551/e0fb838c-bc97-4e00-bab6-ce8d6c9350e6)
+![FSM](https://github.com/DuckDodgersSSj3/FPGA-Hospital-Emergency-Alarm-Control-System/assets/123620551/8254ff64-e4d9-4293-96f1-bfdf24ab1198)
+
 
 ### Nexys A7 - Used to Implement Verilog Program
 ![Nexys A7](https://github.com/DuckDodgersSSj3/FPGA-Hospital-Emergency-Alarm-Control-System/assets/123620551/f0d3d35b-063f-4763-be18-01c3a3cf096a)
